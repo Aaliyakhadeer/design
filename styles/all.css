@@ -1,20 +1,21 @@
-
 html {
-	font-size:62.5%;
+  font-size: 62.5%;
 }
 * {
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 }
-ul, li {
-	list-style: none;
+ul,
+li {
+  list-style: none;
 }
 input {
-	border: none;
+  border: none;
 }
 body {
   width: 160.315rem;
-}.all-LhT {
+}
+.all-LhT {
   width: 100%;
   height: 659.4rem;
 }
@@ -41,31 +42,38 @@ body {
   font-weight: 600;
   line-height: 1.5;
   color: #4a4a4a;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-bnpm-Rkq .home-courses-deals-success-about-register-P5P {
+.all-LhT
+  .course-website-xD3
+  .auto-group-bnpm-Rkq
+  .home-courses-deals-success-about-register-P5P {
   margin: 0rem 17.9rem 0.1rem 0rem;
   text-align: center;
   font-size: 1.8rem;
   font-weight: 400;
   line-height: 1.5;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   display: flex;
   align-items: baseline;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-bnpm-Rkq .home-courses-deals-success-about-register-P5P .home-courses-deals-success-about-register-P5P-sub-0 {
-}
-.all-LhT .course-website-xD3 .auto-group-bnpm-Rkq .home-courses-deals-success-about-register-P5P .home-courses-deals-success-about-register-P5P-sub-1 {
+/* .all-LhT .course-website-xD3 .auto-group-bnpm-Rkq .home-courses-deals-success-about-register-P5P .home-courses-deals-success-about-register-P5P-sub-0 {
+} */
+.all-LhT
+  .course-website-xD3
+  .auto-group-bnpm-Rkq
+  .home-courses-deals-success-about-register-P5P
+  .home-courses-deals-success-about-register-P5P-sub-1 {
   font-size: 1.8rem;
   font-weight: 400;
   line-height: 1.5;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
 }
 .all-LhT .course-website-xD3 .auto-group-bnpm-Rkq .group-1-Etd {
   margin: 0.2rem 0;
@@ -81,15 +89,19 @@ body {
   position: absolute;
   left: 3.3rem;
   top: 1.3rem;
-  text-align: center;
+  text-align: left;
   font-size: 2rem;
   font-weight: 600;
   line-height: 1.5;
   color: #289bde;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
 }
-.all-LhT .course-website-xD3 .auto-group-bnpm-Rkq .group-1-Etd .rectangle-1-mn5 {
+.all-LhT
+  .course-website-xD3
+  .auto-group-bnpm-Rkq
+  .group-1-Etd
+  .rectangle-1-mn5 {
   width: 15rem;
   height: 5.6rem;
   position: absolute;
@@ -111,7 +123,7 @@ body {
   align-items: center;
   background-size: 100% 125.463%;
   background-position: 0 -0.6746rem;
-  background-image: url('../assets/rectangle-2-bg.png');
+  background-image: url("../assets/rectangle-2-bg.png");
   border-radius: 0.5rem;
   background-color: rgba(28, 28, 28, 0.6999999881);
 }
@@ -135,7 +147,11 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ftw7-T97 .group-24-CF7 .get-started-digital-learning-Jow {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ftw7-T97
+  .group-24-CF7
+  .get-started-digital-learning-Jow {
   margin-bottom: 11rem;
   max-width: 62.1rem;
   text-align: center;
@@ -143,7 +159,7 @@ body {
   font-weight: 600;
   line-height: 1.3076923077;
   color: #ffffff;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
 .all-LhT .course-website-xD3 .auto-group-ftw7-T97 .group-24-CF7 .group-3-DR7 {
@@ -153,7 +169,12 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ftw7-T97 .group-24-CF7 .group-3-DR7 .frame-3-93s {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ftw7-T97
+  .group-24-CF7
+  .group-3-DR7
+  .frame-3-93s {
   width: 100%;
   height: 100%;
   text-align: center;
@@ -161,7 +182,7 @@ body {
   font-weight: 600;
   line-height: 1.5;
   color: #ffffff;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   display: flex;
   align-items: center;
@@ -183,7 +204,7 @@ body {
   width: 132rem;
   height: 70rem;
   position: relative;
-  background-image: url('REPLACE_IMAGE:6b9d4812fa484391e21455c77062027446a6ef30');
+  background-image: url("REPLACE_IMAGE:6b9d4812fa484391e21455c77062027446a6ef30");
 }
 .all-LhT .course-website-xD3 .auto-group-heoo-ujB {
   width: 132.2rem;
@@ -206,18 +227,26 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-heoo-ujB .auto-group-34sx-dv5 .rectangle-6-N6y {
+.all-LhT
+  .course-website-xD3
+  .auto-group-heoo-ujB
+  .auto-group-34sx-dv5
+  .rectangle-6-N6y {
   margin-right: 2.4rem;
   width: 20rem;
   height: 20rem;
   position: relative;
   background-size: 150% 100%;
   background-position: -2.1631rem -0rem;
-  background-image: url('../assets/rectangle-6-JJy.png');
+  background-image: url("../assets/rectangle-6-JJy.png");
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-heoo-ujB .auto-group-34sx-dv5 .group-11-Eus {
+.all-LhT
+  .course-website-xD3
+  .auto-group-heoo-ujB
+  .auto-group-34sx-dv5
+  .group-11-Eus {
   margin: 3.4rem 0rem 3.3rem 0rem;
   height: calc(100% - 6.7rem);
   row-gap: 1rem;
@@ -225,30 +254,45 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-heoo-ujB .auto-group-34sx-dv5 .group-11-Eus .fundamental-of-ui-ux-design-MUh {
+.all-LhT
+  .course-website-xD3
+  .auto-group-heoo-ujB
+  .auto-group-34sx-dv5
+  .group-11-Eus
+  .fundamental-of-ui-ux-design-MUh {
   font-size: 2.5rem;
   font-weight: 600;
   line-height: 1.5;
   color: #4a4a4a;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-heoo-ujB .auto-group-34sx-dv5 .group-11-Eus .some-quick-example-text-to-build-on-the-card-title-and-make-up-the-bulk-of-the-card-5vV {
+.all-LhT
+  .course-website-xD3
+  .auto-group-heoo-ujB
+  .auto-group-34sx-dv5
+  .group-11-Eus
+  .some-quick-example-text-to-build-on-the-card-title-and-make-up-the-bulk-of-the-card-5vV {
   max-width: 39.6rem;
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.5;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-heoo-ujB .auto-group-34sx-dv5 .group-11-Eus .price-20-aMT {
+.all-LhT
+  .course-website-xD3
+  .auto-group-heoo-ujB
+  .auto-group-34sx-dv5
+  .group-11-Eus
+  .price-20-aMT {
   font-size: 1.8rem;
   font-weight: 600;
   line-height: 1.5;
   color: #289bde;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -263,18 +307,26 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-heoo-ujB .auto-group-3nnr-HFs .rectangle-6-Rcy {
+.all-LhT
+  .course-website-xD3
+  .auto-group-heoo-ujB
+  .auto-group-3nnr-HFs
+  .rectangle-6-Rcy {
   margin-right: 2.4rem;
   width: 20rem;
   height: 20rem;
   position: relative;
   background-size: 174.968% 100%;
   background-position: -0.836rem -0rem;
-  background-image: url('../assets/rectangle-6-9UZ.png');
+  background-image: url("../assets/rectangle-6-9UZ.png");
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-heoo-ujB .auto-group-3nnr-HFs .group-11-iMB {
+.all-LhT
+  .course-website-xD3
+  .auto-group-heoo-ujB
+  .auto-group-3nnr-HFs
+  .group-11-iMB {
   margin: 3.4rem 0rem 3.3rem 0rem;
   height: calc(100% - 6.7rem);
   row-gap: 1rem;
@@ -282,30 +334,45 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-heoo-ujB .auto-group-3nnr-HFs .group-11-iMB .javascript-basic-to-advanced-3PT {
+.all-LhT
+  .course-website-xD3
+  .auto-group-heoo-ujB
+  .auto-group-3nnr-HFs
+  .group-11-iMB
+  .javascript-basic-to-advanced-3PT {
   font-size: 2.5rem;
   font-weight: 600;
   line-height: 1.5;
   color: #4a4a4a;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-heoo-ujB .auto-group-3nnr-HFs .group-11-iMB .some-quick-example-text-to-build-on-the-card-title-and-make-up-the-bulk-of-the-card-m4Z {
+.all-LhT
+  .course-website-xD3
+  .auto-group-heoo-ujB
+  .auto-group-3nnr-HFs
+  .group-11-iMB
+  .some-quick-example-text-to-build-on-the-card-title-and-make-up-the-bulk-of-the-card-m4Z {
   max-width: 39.6rem;
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.5;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-heoo-ujB .auto-group-3nnr-HFs .group-11-iMB .price-20-3nm {
+.all-LhT
+  .course-website-xD3
+  .auto-group-heoo-ujB
+  .auto-group-3nnr-HFs
+  .group-11-iMB
+  .price-20-3nm {
   font-size: 1.8rem;
   font-weight: 600;
   line-height: 1.5;
   color: #289bde;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -330,7 +397,11 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ykws-khB .auto-group-ezrd-G9j .rectangle-6-17K {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ykws-khB
+  .auto-group-ezrd-G9j
+  .rectangle-6-17K {
   margin-right: 2.4rem;
   width: 20rem;
   height: 20rem;
@@ -339,7 +410,11 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ykws-khB .auto-group-ezrd-G9j .group-11-Kth {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ykws-khB
+  .auto-group-ezrd-G9j
+  .group-11-Kth {
   margin: 3.4rem 0rem 3.3rem 0rem;
   height: calc(100% - 6.7rem);
   row-gap: 1rem;
@@ -347,30 +422,45 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ykws-khB .auto-group-ezrd-G9j .group-11-Kth .fullstack-web-development-dPb {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ykws-khB
+  .auto-group-ezrd-G9j
+  .group-11-Kth
+  .fullstack-web-development-dPb {
   font-size: 2.5rem;
   font-weight: 600;
   line-height: 1.5;
   color: #4a4a4a;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ykws-khB .auto-group-ezrd-G9j .group-11-Kth .some-quick-example-text-to-build-on-the-card-title-and-make-up-the-bulk-of-the-card-kUD {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ykws-khB
+  .auto-group-ezrd-G9j
+  .group-11-Kth
+  .some-quick-example-text-to-build-on-the-card-title-and-make-up-the-bulk-of-the-card-kUD {
   max-width: 39.6rem;
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.5;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ykws-khB .auto-group-ezrd-G9j .group-11-Kth .price-20-FA5 {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ykws-khB
+  .auto-group-ezrd-G9j
+  .group-11-Kth
+  .price-20-FA5 {
   font-size: 1.8rem;
   font-weight: 600;
   line-height: 1.5;
   color: #289bde;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -385,7 +475,11 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ykws-khB .auto-group-zfpt-wob .rectangle-6-5eu {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ykws-khB
+  .auto-group-zfpt-wob
+  .rectangle-6-5eu {
   margin-right: 2.4rem;
   width: 20rem;
   height: 20rem;
@@ -394,7 +488,11 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ykws-khB .auto-group-zfpt-wob .group-11-1Hf {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ykws-khB
+  .auto-group-zfpt-wob
+  .group-11-1Hf {
   margin: 3.4rem 0rem 3.3rem 0rem;
   box-sizing: border-box;
   padding-top: 4.8rem;
@@ -403,22 +501,32 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ykws-khB .auto-group-zfpt-wob .group-11-1Hf .some-quick-example-text-to-build-on-the-card-title-and-make-up-the-bulk-of-the-card-hwB {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ykws-khB
+  .auto-group-zfpt-wob
+  .group-11-1Hf
+  .some-quick-example-text-to-build-on-the-card-title-and-make-up-the-bulk-of-the-card-hwB {
   margin-bottom: 1rem;
   max-width: 39.6rem;
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.5;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ykws-khB .auto-group-zfpt-wob .group-11-1Hf .price-20-PZ7 {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ykws-khB
+  .auto-group-zfpt-wob
+  .group-11-1Hf
+  .price-20-PZ7 {
   font-size: 1.8rem;
   font-weight: 600;
   line-height: 1.5;
   color: #289bde;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -443,18 +551,26 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-brmw-h41 .auto-group-hfgh-nLM .rectangle-6-uvm {
+.all-LhT
+  .course-website-xD3
+  .auto-group-brmw-h41
+  .auto-group-hfgh-nLM
+  .rectangle-6-uvm {
   margin-right: 2.4rem;
   width: 20rem;
   height: 20rem;
   position: relative;
   background-size: 177.778% 100%;
   background-position: -15.2558rem 0;
-  background-image: url('../assets/rectangle-6-GrR.png');
+  background-image: url("../assets/rectangle-6-GrR.png");
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-brmw-h41 .auto-group-hfgh-nLM .group-11-aGD {
+.all-LhT
+  .course-website-xD3
+  .auto-group-brmw-h41
+  .auto-group-hfgh-nLM
+  .group-11-aGD {
   margin: 3.4rem 0rem 3.3rem 0rem;
   height: calc(100% - 6.7rem);
   row-gap: 1rem;
@@ -462,30 +578,45 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-brmw-h41 .auto-group-hfgh-nLM .group-11-aGD .photography-basic-rules-5Ts {
+.all-LhT
+  .course-website-xD3
+  .auto-group-brmw-h41
+  .auto-group-hfgh-nLM
+  .group-11-aGD
+  .photography-basic-rules-5Ts {
   font-size: 2.5rem;
   font-weight: 600;
   line-height: 1.5;
   color: #4a4a4a;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-brmw-h41 .auto-group-hfgh-nLM .group-11-aGD .some-quick-example-text-to-build-on-the-card-title-and-make-up-the-bulk-of-the-card-Qm3 {
+.all-LhT
+  .course-website-xD3
+  .auto-group-brmw-h41
+  .auto-group-hfgh-nLM
+  .group-11-aGD
+  .some-quick-example-text-to-build-on-the-card-title-and-make-up-the-bulk-of-the-card-Qm3 {
   max-width: 39.6rem;
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.5;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-brmw-h41 .auto-group-hfgh-nLM .group-11-aGD .price-20-WZB {
+.all-LhT
+  .course-website-xD3
+  .auto-group-brmw-h41
+  .auto-group-hfgh-nLM
+  .group-11-aGD
+  .price-20-WZB {
   font-size: 1.8rem;
   font-weight: 600;
   line-height: 1.5;
   color: #289bde;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -500,18 +631,26 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-brmw-h41 .auto-group-basw-NbP .rectangle-6-ubK {
+.all-LhT
+  .course-website-xD3
+  .auto-group-brmw-h41
+  .auto-group-basw-NbP
+  .rectangle-6-ubK {
   margin-right: 2.4rem;
   width: 20rem;
   height: 20rem;
   position: relative;
   background-size: 150% 100%;
   background-position: -1.5792rem 0;
-  background-image: url('../assets/rectangle-6-CiZ.png');
+  background-image: url("../assets/rectangle-6-CiZ.png");
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-brmw-h41 .auto-group-basw-NbP .group-11-ZQy {
+.all-LhT
+  .course-website-xD3
+  .auto-group-brmw-h41
+  .auto-group-basw-NbP
+  .group-11-ZQy {
   margin: 3.4rem 0rem 3.3rem 0rem;
   box-sizing: border-box;
   padding-top: 4.8rem;
@@ -520,22 +659,32 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-brmw-h41 .auto-group-basw-NbP .group-11-ZQy .some-quick-example-text-to-build-on-the-card-title-and-make-up-the-bulk-of-the-card-Fob {
+.all-LhT
+  .course-website-xD3
+  .auto-group-brmw-h41
+  .auto-group-basw-NbP
+  .group-11-ZQy
+  .some-quick-example-text-to-build-on-the-card-title-and-make-up-the-bulk-of-the-card-Fob {
   margin-bottom: 1rem;
   max-width: 39.6rem;
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.5;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-brmw-h41 .auto-group-basw-NbP .group-11-ZQy .price-20-9e5 {
+.all-LhT
+  .course-website-xD3
+  .auto-group-brmw-h41
+  .auto-group-basw-NbP
+  .group-11-ZQy
+  .price-20-9e5 {
   font-size: 1.8rem;
   font-weight: 600;
   line-height: 1.5;
   color: #289bde;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -557,17 +706,20 @@ body {
   font-weight: 600;
   line-height: 1.3333333333;
   color: #1c1c1c;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .group-26-Qa1 .it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout-o6M {
+.all-LhT
+  .course-website-xD3
+  .group-26-Qa1
+  .it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout-o6M {
   max-width: 60.1rem;
   text-align: center;
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.875;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
 .all-LhT .course-website-xD3 .frame-3-4Y5 {
@@ -581,7 +733,7 @@ body {
   font-weight: 600;
   line-height: 1.5;
   color: #ffffff;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   display: flex;
   align-items: center;
@@ -611,7 +763,7 @@ body {
   position: relative;
   background-size: 201.299% 100%;
   background-position: -52.2751rem 0;
-  background-image: url('../assets/rectangle-8.png');
+  background-image: url("../assets/rectangle-8.png");
   flex-shrink: 0;
 }
 .all-LhT .course-website-xD3 .auto-group-sxj1-6Ds .group-23-qam {
@@ -622,24 +774,32 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-sxj1-6Ds .group-23-qam .explore-the-elearning-institute-N4u {
+.all-LhT
+  .course-website-xD3
+  .auto-group-sxj1-6Ds
+  .group-23-qam
+  .explore-the-elearning-institute-N4u {
   margin-bottom: 1rem;
   max-width: 49.1rem;
   font-size: 4.5rem;
   font-weight: 600;
   line-height: 1.3333333333;
   color: #1c1c1c;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-sxj1-6Ds .group-23-qam .there-are-many-variations-of-passages-of-lorem-ipsum-available-but-the-majority-have-suffered-alteration-in-some-form-by-injected-humour-or-randomised-words-which-dont-look-even-slightly-believable-if-you-are-going-to-use-a-passage-of-lorem-ipsum-you-need-to-be-sure-anything-embarrassing-hidden-in-the-middle-of-text-all-the-lorem-ipsum-generators-on-the-internet-tend-to-repeat-predefined-4yK {
+.all-LhT
+  .course-website-xD3
+  .auto-group-sxj1-6Ds
+  .group-23-qam
+  .there-are-many-variations-of-passages-of-lorem-ipsum-available-but-the-majority-have-suffered-alteration-in-some-form-by-injected-humour-or-randomised-words-which-dont-look-even-slightly-believable-if-you-are-going-to-use-a-passage-of-lorem-ipsum-you-need-to-be-sure-anything-embarrassing-hidden-in-the-middle-of-text-all-the-lorem-ipsum-generators-on-the-internet-tend-to-repeat-predefined-4yK {
   margin-bottom: 3rem;
   max-width: 60.6rem;
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.875;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
 .all-LhT .course-website-xD3 .auto-group-sxj1-6Ds .group-23-qam .group-22-oJd {
@@ -650,74 +810,125 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-sxj1-6Ds .group-23-qam .group-22-oJd .group-19-igV {
+.all-LhT
+  .course-website-xD3
+  .auto-group-sxj1-6Ds
+  .group-23-qam
+  .group-22-oJd
+  .group-19-igV {
   width: 14.2rem;
   height: 100%;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-sxj1-6Ds .group-23-qam .group-22-oJd .group-19-igV .k-rXo {
+.all-LhT
+  .course-website-xD3
+  .auto-group-sxj1-6Ds
+  .group-23-qam
+  .group-22-oJd
+  .group-19-igV
+  .k-rXo {
   width: 100%;
   text-align: center;
   font-size: 4.5rem;
   font-weight: 600;
   line-height: 1.3333333333;
   color: #1c1c1c;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
 }
-.all-LhT .course-website-xD3 .auto-group-sxj1-6Ds .group-23-qam .group-22-oJd .group-19-igV .online-course-aCu {
+.all-LhT
+  .course-website-xD3
+  .auto-group-sxj1-6Ds
+  .group-23-qam
+  .group-22-oJd
+  .group-19-igV
+  .online-course-aCu {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.5;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
 }
-.all-LhT .course-website-xD3 .auto-group-sxj1-6Ds .group-23-qam .group-22-oJd .group-20-g13 {
+.all-LhT
+  .course-website-xD3
+  .auto-group-sxj1-6Ds
+  .group-23-qam
+  .group-22-oJd
+  .group-20-g13 {
   height: 100%;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-sxj1-6Ds .group-23-qam .group-22-oJd .group-20-g13 .item-600-Dmf {
+.all-LhT
+  .course-website-xD3
+  .auto-group-sxj1-6Ds
+  .group-23-qam
+  .group-22-oJd
+  .group-20-g13
+  .item-600-Dmf {
   font-size: 4.5rem;
   font-weight: 600;
   line-height: 1.3333333333;
   color: #1c1c1c;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-sxj1-6Ds .group-23-qam .group-22-oJd .group-20-g13 .expert-member-vvy {
+.all-LhT
+  .course-website-xD3
+  .auto-group-sxj1-6Ds
+  .group-23-qam
+  .group-22-oJd
+  .group-20-g13
+  .expert-member-vvy {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.5;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-sxj1-6Ds .group-23-qam .group-22-oJd .group-21-41b {
+.all-LhT
+  .course-website-xD3
+  .auto-group-sxj1-6Ds
+  .group-23-qam
+  .group-22-oJd
+  .group-21-41b {
   height: 100%;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-sxj1-6Ds .group-23-qam .group-22-oJd .group-21-41b .k-bXK {
+.all-LhT
+  .course-website-xD3
+  .auto-group-sxj1-6Ds
+  .group-23-qam
+  .group-22-oJd
+  .group-21-41b
+  .k-bXK {
   font-size: 4.5rem;
   font-weight: 600;
   line-height: 1.3333333333;
   color: #1c1c1c;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-sxj1-6Ds .group-23-qam .group-22-oJd .group-21-41b .rating-review-vZb {
+.all-LhT
+  .course-website-xD3
+  .auto-group-sxj1-6Ds
+  .group-23-qam
+  .group-22-oJd
+  .group-21-41b
+  .rating-review-vZb {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.5;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -729,7 +940,7 @@ body {
   font-weight: 600;
   line-height: 1.5;
   color: #ffffff;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   display: flex;
   align-items: center;
@@ -751,10 +962,12 @@ body {
   font-weight: 600;
   line-height: 1.3333333333;
   color: #1c1c1c;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
 }
-.all-LhT .course-website-xD3 .it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout-5zD {
+.all-LhT
+  .course-website-xD3
+  .it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout-5zD {
   width: 60.1rem;
   height: 6rem;
   position: absolute;
@@ -765,7 +978,7 @@ body {
   font-weight: 400;
   line-height: 1.875;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
 }
 .all-LhT .course-website-xD3 .meet-our-successfull-students-Vo3 {
   width: 47.7rem;
@@ -777,9 +990,11 @@ body {
   font-weight: 600;
   line-height: 1.3333333333;
   color: #1c1c1c;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
 }
-.all-LhT .course-website-xD3 .it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout-yiD {
+.all-LhT
+  .course-website-xD3
+  .it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout-yiD {
   width: 51.9rem;
   height: 6rem;
   position: absolute;
@@ -789,7 +1004,7 @@ body {
   font-weight: 400;
   line-height: 1.875;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
 }
 .all-LhT .course-website-xD3 .auto-group-ivgm-QYd {
   width: 132.2rem;
@@ -811,7 +1026,11 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ivgm-QYd .auto-group-tlrh-hGq .rectangle-6-zmj {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ivgm-QYd
+  .auto-group-tlrh-hGq
+  .rectangle-6-zmj {
   margin-bottom: 2.1rem;
   width: 31.2rem;
   height: 30rem;
@@ -819,27 +1038,41 @@ body {
   vertical-align: top;
   border-radius: 0.5rem 0.5rem 0 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ivgm-QYd .auto-group-tlrh-hGq .group-4871-J1j {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ivgm-QYd
+  .auto-group-tlrh-hGq
+  .group-4871-J1j {
   margin-left: 2.1rem;
   display: flex;
   flex-direction: column;
 }
-.all-LhT .course-website-xD3 .auto-group-ivgm-QYd .auto-group-tlrh-hGq .group-4871-J1j .awlad-hossain-dJu {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ivgm-QYd
+  .auto-group-tlrh-hGq
+  .group-4871-J1j
+  .awlad-hossain-dJu {
   margin-bottom: 0.5rem;
   font-size: 2rem;
   font-weight: 600;
   line-height: 1.5;
   color: #4a4a4a;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ivgm-QYd .auto-group-tlrh-hGq .group-4871-J1j .uiux-designer-9HF {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ivgm-QYd
+  .auto-group-tlrh-hGq
+  .group-4871-J1j
+  .uiux-designer-9HF {
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.5;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -854,7 +1087,11 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ivgm-QYd .group-10098-E3o .rectangle-6-8Q5 {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ivgm-QYd
+  .group-10098-E3o
+  .rectangle-6-8Q5 {
   margin-bottom: 2.1rem;
   width: 31.2rem;
   height: 30rem;
@@ -862,27 +1099,41 @@ body {
   vertical-align: top;
   border-radius: 0.5rem 0.5rem 0 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ivgm-QYd .group-10098-E3o .group-4871-qZP {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ivgm-QYd
+  .group-10098-E3o
+  .group-4871-qZP {
   margin-left: 2.1rem;
   display: flex;
   flex-direction: column;
 }
-.all-LhT .course-website-xD3 .auto-group-ivgm-QYd .group-10098-E3o .group-4871-qZP .jannatul-islam-mxq {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ivgm-QYd
+  .group-10098-E3o
+  .group-4871-qZP
+  .jannatul-islam-mxq {
   margin-bottom: 0.5rem;
   font-size: 2rem;
   font-weight: 600;
   line-height: 1.5;
   color: #4a4a4a;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ivgm-QYd .group-10098-E3o .group-4871-qZP .motion-design-JC5 {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ivgm-QYd
+  .group-10098-E3o
+  .group-4871-qZP
+  .motion-design-JC5 {
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.5;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -897,37 +1148,55 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ivgm-QYd .auto-group-rtad-nN9 .rectangle-6-JLV {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ivgm-QYd
+  .auto-group-rtad-nN9
+  .rectangle-6-JLV {
   margin-bottom: 2.1rem;
   width: 31.2rem;
   height: 30rem;
   position: relative;
   background-size: 144.231% 100%;
   background-position: -10.3546rem -0rem;
-  background-image: url('../assets/rectangle-6-JM3.png');
+  background-image: url("../assets/rectangle-6-JM3.png");
   border-radius: 0.5rem 0.5rem 0 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ivgm-QYd .auto-group-rtad-nN9 .group-4871-Lny {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ivgm-QYd
+  .auto-group-rtad-nN9
+  .group-4871-Lny {
   margin-left: 2.1rem;
   display: flex;
   flex-direction: column;
 }
-.all-LhT .course-website-xD3 .auto-group-ivgm-QYd .auto-group-rtad-nN9 .group-4871-Lny .imran-hossain-t3o {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ivgm-QYd
+  .auto-group-rtad-nN9
+  .group-4871-Lny
+  .imran-hossain-t3o {
   margin-bottom: 0.5rem;
   font-size: 2rem;
   font-weight: 600;
   line-height: 1.5;
   color: #4a4a4a;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ivgm-QYd .auto-group-rtad-nN9 .group-4871-Lny .graphic-designer-18R {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ivgm-QYd
+  .auto-group-rtad-nN9
+  .group-4871-Lny
+  .graphic-designer-18R {
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.5;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -941,7 +1210,11 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ivgm-QYd .auto-group-vy8z-5ty .rectangle-6-1Gq {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ivgm-QYd
+  .auto-group-vy8z-5ty
+  .rectangle-6-1Gq {
   margin-bottom: 2.1rem;
   width: 31.2rem;
   height: 30rem;
@@ -949,27 +1222,41 @@ body {
   vertical-align: top;
   border-radius: 0.5rem 0.5rem 0 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ivgm-QYd .auto-group-vy8z-5ty .group-4871-5nV {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ivgm-QYd
+  .auto-group-vy8z-5ty
+  .group-4871-5nV {
   margin-left: 2.1rem;
   display: flex;
   flex-direction: column;
 }
-.all-LhT .course-website-xD3 .auto-group-ivgm-QYd .auto-group-vy8z-5ty .group-4871-5nV .nishi-akter-E9b {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ivgm-QYd
+  .auto-group-vy8z-5ty
+  .group-4871-5nV
+  .nishi-akter-E9b {
   margin-bottom: 0.5rem;
   font-size: 2rem;
   font-weight: 600;
   line-height: 1.5;
   color: #4a4a4a;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ivgm-QYd .auto-group-vy8z-5ty .group-4871-5nV .web-developer-LyK {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ivgm-QYd
+  .auto-group-vy8z-5ty
+  .group-4871-5nV
+  .web-developer-LyK {
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.5;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -993,23 +1280,31 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ghuh-E37 .group-33-srm .ready-to-join-R7b {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ghuh-E37
+  .group-33-srm
+  .ready-to-join-R7b {
   margin-bottom: 2rem;
   font-size: 4.5rem;
   font-weight: 600;
   line-height: 1.3333333333;
   color: #ffffff;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ghuh-E37 .group-33-srm .it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout-LkM {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ghuh-E37
+  .group-33-srm
+  .it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout-LkM {
   max-width: 51.9rem;
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.875;
   color: #f4f4f4;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
 .all-LhT .course-website-xD3 .auto-group-ghuh-E37 .frame-4-cSy {
@@ -1021,7 +1316,7 @@ body {
   font-weight: 600;
   line-height: 1.5;
   color: #289bde;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   display: flex;
   align-items: center;
@@ -1051,25 +1346,33 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .group-4877-SB7 .auto-group-ygaq-wdf .frequently-asked-questions-2f7 {
+.all-LhT
+  .course-website-xD3
+  .group-4877-SB7
+  .auto-group-ygaq-wdf
+  .frequently-asked-questions-2f7 {
   margin-bottom: 2rem;
   text-align: center;
   font-size: 4.5rem;
   font-weight: 600;
   line-height: 1.3333333333;
   color: #1c1c1c;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .group-4877-SB7 .auto-group-ygaq-wdf .it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout-vVb {
+.all-LhT
+  .course-website-xD3
+  .group-4877-SB7
+  .auto-group-ygaq-wdf
+  .it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout-vVb {
   max-width: 60.1rem;
   text-align: center;
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.875;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
 .all-LhT .course-website-xD3 .group-4877-SB7 .group-4870-NcV {
@@ -1090,17 +1393,27 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .group-4877-SB7 .group-4870-NcV .group-4866-5mo .what-other-services-are-you-compatible-with-aTf {
+.all-LhT
+  .course-website-xD3
+  .group-4877-SB7
+  .group-4870-NcV
+  .group-4866-5mo
+  .what-other-services-are-you-compatible-with-aTf {
   margin-right: 31.433rem;
   font-size: 2rem;
   font-weight: 600;
   line-height: 1.5;
   color: #4a4a4a;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .group-4877-SB7 .group-4870-NcV .group-4866-5mo .group-4865-TnM {
+.all-LhT
+  .course-website-xD3
+  .group-4877-SB7
+  .group-4870-NcV
+  .group-4866-5mo
+  .group-4865-TnM {
   margin-top: 0.1rem;
   width: 1.4028rem;
   height: 0.7rem;
@@ -1108,14 +1421,18 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .group-4877-SB7 .group-4870-NcV .there-are-many-variations-of-passages-of-available-but-the-majority-have-suffered-alteration-in-some-form-by-injected-humour-or-randomised-words-which-dont-look-even-slightly-believable-if-you-are-going-to-use-a-passage-of-lorem-ipsum-you-need-to-be-sure-there-isnt-anything-embarrassing-hidden-in-the-middle-of-text-all-the-generators-on-the-Y37 {
+.all-LhT
+  .course-website-xD3
+  .group-4877-SB7
+  .group-4870-NcV
+  .there-are-many-variations-of-passages-of-available-but-the-majority-have-suffered-alteration-in-some-form-by-injected-humour-or-randomised-words-which-dont-look-even-slightly-believable-if-you-are-going-to-use-a-passage-of-lorem-ipsum-you-need-to-be-sure-there-isnt-anything-embarrassing-hidden-in-the-middle-of-text-all-the-generators-on-the-Y37 {
   margin-right: 2.2rem;
   max-width: 77rem;
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.875;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
 .all-LhT .course-website-xD3 .group-4877-SB7 .group-4870-NcV .group-4867-Huo {
@@ -1129,17 +1446,27 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .group-4877-SB7 .group-4870-NcV .group-4867-Huo .i-have-a-technical-i-need-resolved-who-do-i-email-CWy {
+.all-LhT
+  .course-website-xD3
+  .group-4877-SB7
+  .group-4870-NcV
+  .group-4867-Huo
+  .i-have-a-technical-i-need-resolved-who-do-i-email-CWy {
   margin-right: 27.333rem;
   font-size: 2rem;
   font-weight: 600;
   line-height: 1.5;
   color: #4a4a4a;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .group-4877-SB7 .group-4870-NcV .group-4867-Huo .group-4865-J4D {
+.all-LhT
+  .course-website-xD3
+  .group-4877-SB7
+  .group-4870-NcV
+  .group-4867-Huo
+  .group-4865-J4D {
   margin-top: 0.1rem;
   width: 1.4028rem;
   height: 0.7rem;
@@ -1158,17 +1485,27 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .group-4877-SB7 .group-4870-NcV .group-4868-b3K .what-other-services-are-you-compatible-with-HB3 {
+.all-LhT
+  .course-website-xD3
+  .group-4877-SB7
+  .group-4870-NcV
+  .group-4868-b3K
+  .what-other-services-are-you-compatible-with-HB3 {
   margin-right: 31.433rem;
   font-size: 2rem;
   font-weight: 600;
   line-height: 1.5;
   color: #4a4a4a;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .group-4877-SB7 .group-4870-NcV .group-4868-b3K .group-4865-BnD {
+.all-LhT
+  .course-website-xD3
+  .group-4877-SB7
+  .group-4870-NcV
+  .group-4868-b3K
+  .group-4865-BnD {
   margin-top: 0.1rem;
   width: 1.4028rem;
   height: 0.7rem;
@@ -1187,17 +1524,27 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .group-4877-SB7 .group-4870-NcV .group-4869-Gof .what-other-services-are-you-compatible-with-P7b {
+.all-LhT
+  .course-website-xD3
+  .group-4877-SB7
+  .group-4870-NcV
+  .group-4869-Gof
+  .what-other-services-are-you-compatible-with-P7b {
   margin-right: 31.433rem;
   font-size: 2rem;
   font-weight: 600;
   line-height: 1.5;
   color: #4a4a4a;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .group-4877-SB7 .group-4870-NcV .group-4869-Gof .group-4865-VgR {
+.all-LhT
+  .course-website-xD3
+  .group-4877-SB7
+  .group-4870-NcV
+  .group-4869-Gof
+  .group-4865-VgR {
   margin-top: 0.1rem;
   width: 1.4028rem;
   height: 0.7rem;
@@ -1216,7 +1563,7 @@ body {
   font-weight: 600;
   line-height: 1.5;
   color: #ffffff;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   display: flex;
   align-items: center;
@@ -1245,14 +1592,23 @@ body {
   background-color: #ffffff;
   border-radius: 0.5rem;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4882-jUH .auto-group-68p5-3Uy {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4882-jUH
+  .auto-group-68p5-3Uy {
   margin: 0rem 0rem 2.033rem 0.035rem;
   width: calc(100% - 0.0355rem);
   height: 4.4667rem;
   display: flex;
   align-items: center;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4882-jUH .auto-group-68p5-3Uy .group-4879-AJh {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4882-jUH
+  .auto-group-68p5-3Uy
+  .group-4879-AJh {
   margin-right: 39.266rem;
   width: 5.5985rem;
   height: 4.4667rem;
@@ -1260,101 +1616,172 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4882-jUH .auto-group-68p5-3Uy .rating-tkV {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4882-jUH
+  .auto-group-68p5-3Uy
+  .rating-tkV {
   margin: 1rem 0rem 1.067rem 0rem;
   height: calc(100% - 2.0667rem);
   display: flex;
   align-items: center;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4882-jUH .auto-group-68p5-3Uy .rating-tkV .base-rating-cRb {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4882-jUH
+  .auto-group-68p5-3Uy
+  .rating-tkV
+  .base-rating-cRb {
   width: 2.4rem;
   height: 2.4rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4882-jUH .auto-group-68p5-3Uy .rating-tkV .base-rating-MPB {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4882-jUH
+  .auto-group-68p5-3Uy
+  .rating-tkV
+  .base-rating-MPB {
   width: 2.4rem;
   height: 2.4rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4882-jUH .auto-group-68p5-3Uy .rating-tkV .base-rating-hhw {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4882-jUH
+  .auto-group-68p5-3Uy
+  .rating-tkV
+  .base-rating-hhw {
   width: 2.4rem;
   height: 2.4rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4882-jUH .auto-group-68p5-3Uy .rating-tkV .base-rating-FUZ {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4882-jUH
+  .auto-group-68p5-3Uy
+  .rating-tkV
+  .base-rating-FUZ {
   width: 2.4rem;
   height: 2.4rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4882-jUH .auto-group-68p5-3Uy .rating-tkV .base-rating-Ceh {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4882-jUH
+  .auto-group-68p5-3Uy
+  .rating-tkV
+  .base-rating-Ceh {
   width: 2.4rem;
   height: 2.4rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4882-jUH .there-are-many-variations-of-passages-of-lorem-ipsum-available-but-the-majority-have-suffered-alteration-in-some-form-by-injected-humour-or-randomised-words-which-dont-look-even-slightly-believable-if-you-are-going-to-use-a-passage-of-lorem-kAR {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4882-jUH
+  .there-are-many-variations-of-passages-of-lorem-ipsum-available-but-the-majority-have-suffered-alteration-in-some-form-by-injected-humour-or-randomised-words-which-dont-look-even-slightly-believable-if-you-are-going-to-use-a-passage-of-lorem-kAR {
   margin-bottom: 2rem;
   max-width: 56.7rem;
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.875;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4882-jUH .group-4881-Mvu {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4882-jUH
+  .group-4881-Mvu {
   margin-right: 37.1rem;
   width: calc(100% - 37.1rem);
   height: 5.1rem;
   display: flex;
   align-items: center;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4882-jUH .group-4881-Mvu .ellipse-1-tfw {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4882-jUH
+  .group-4881-Mvu
+  .ellipse-1-tfw {
   margin: 0.1rem 2.1rem 0rem 0rem;
   width: 4.2rem;
   height: 4.2rem;
   background-size: 149.883% 100%;
   background-position: -1.8114rem 0rem;
-  background-image: url('../assets/ellipse-1-bg-R2u.png');
+  background-image: url("../assets/ellipse-1-bg-R2u.png");
   border-radius: 2.1rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4882-jUH .group-4881-Mvu .ellipse-1-tfw .ellipse-1-tfw-bg {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4882-jUH
+  .group-4881-Mvu
+  .ellipse-1-tfw
+  .ellipse-1-tfw-bg {
   width: 4.2rem;
   height: 4.2rem;
   position: relative;
-  background-image: url('REPLACE_IMAGE:4b1598f043048c359682092b73675c6b479a27c6');
+  background-image: url("REPLACE_IMAGE:4b1598f043048c359682092b73675c6b479a27c6");
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4882-jUH .group-4881-Mvu .group-4880-jRf {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4882-jUH
+  .group-4881-Mvu
+  .group-4880-jRf {
   height: 100%;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4882-jUH .group-4881-Mvu .group-4880-jRf .awlad-hossain-Vfj {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4882-jUH
+  .group-4881-Mvu
+  .group-4880-jRf
+  .awlad-hossain-Vfj {
   font-size: 1.8rem;
   font-weight: 600;
   line-height: 1.5;
   color: #4a4a4a;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4882-jUH .group-4881-Mvu .group-4880-jRf .ui-designer-Dbj {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4882-jUH
+  .group-4881-Mvu
+  .group-4880-jRf
+  .ui-designer-Dbj {
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.5;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -1370,14 +1797,23 @@ body {
   background-color: #ffffff;
   border-radius: 0.5rem;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4883-ujT .auto-group-kuwz-ctm {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4883-ujT
+  .auto-group-kuwz-ctm {
   margin-bottom: 2.0333rem;
   width: 100%;
   height: 4.4667rem;
   display: flex;
   align-items: center;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4883-ujT .auto-group-kuwz-ctm .group-4879-kVB {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4883-ujT
+  .auto-group-kuwz-ctm
+  .group-4879-kVB {
   margin-right: 39.3335rem;
   width: 5.5985rem;
   height: 4.4667rem;
@@ -1385,96 +1821,161 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4883-ujT .auto-group-kuwz-ctm .rating-Ug5 {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4883-ujT
+  .auto-group-kuwz-ctm
+  .rating-Ug5 {
   margin: 1rem 0rem 1.067rem 0rem;
   height: calc(100% - 2.0667rem);
   display: flex;
   align-items: center;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4883-ujT .auto-group-kuwz-ctm .rating-Ug5 .base-rating-Cry {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4883-ujT
+  .auto-group-kuwz-ctm
+  .rating-Ug5
+  .base-rating-Cry {
   width: 2.4rem;
   height: 2.4rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4883-ujT .auto-group-kuwz-ctm .rating-Ug5 .base-rating-wZf {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4883-ujT
+  .auto-group-kuwz-ctm
+  .rating-Ug5
+  .base-rating-wZf {
   width: 2.4rem;
   height: 2.4rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4883-ujT .auto-group-kuwz-ctm .rating-Ug5 .base-rating-gn9 {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4883-ujT
+  .auto-group-kuwz-ctm
+  .rating-Ug5
+  .base-rating-gn9 {
   width: 2.4rem;
   height: 2.4rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4883-ujT .auto-group-kuwz-ctm .rating-Ug5 .base-rating-2b7 {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4883-ujT
+  .auto-group-kuwz-ctm
+  .rating-Ug5
+  .base-rating-2b7 {
   width: 2.4rem;
   height: 2.4rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4883-ujT .auto-group-kuwz-ctm .rating-Ug5 .base-rating-BD7 {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4883-ujT
+  .auto-group-kuwz-ctm
+  .rating-Ug5
+  .base-rating-BD7 {
   width: 2.4rem;
   height: 2.4rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4883-ujT .there-are-many-variations-of-passages-of-lorem-ipsum-available-but-the-majority-have-suffered-alteration-in-some-form-by-injected-humour-or-randomised-words-which-dont-look-even-slightly-believable-if-you-are-going-to-use-a-passage-of-lorem-76m {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4883-ujT
+  .there-are-many-variations-of-passages-of-lorem-ipsum-available-but-the-majority-have-suffered-alteration-in-some-form-by-injected-humour-or-randomised-words-which-dont-look-even-slightly-believable-if-you-are-going-to-use-a-passage-of-lorem-76m {
   margin: 0rem 0rem 2rem 0.032rem;
   max-width: 56.7rem;
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.875;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4883-ujT .group-4881-W8u {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4883-ujT
+  .group-4881-W8u {
   margin: 0rem 36.8rem 0rem 0.032rem;
   width: calc(100% - 36.832rem);
   height: 5.1rem;
   display: flex;
   align-items: center;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4883-ujT .group-4881-W8u .ellipse-1-27F {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4883-ujT
+  .group-4881-W8u
+  .ellipse-1-27F {
   margin: 0.1rem 2rem 0rem 0rem;
   width: 4.2rem;
   height: 4.2rem;
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/ellipse-1-bg.png');
+  background-image: url("../assets/ellipse-1-bg.png");
   border-radius: 2.1rem;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4883-ujT .group-4881-W8u .group-4880-vCd {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4883-ujT
+  .group-4881-W8u
+  .group-4880-vCd {
   height: 100%;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4883-ujT .group-4881-W8u .group-4880-vCd .shanta-akter-s7s {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4883-ujT
+  .group-4881-W8u
+  .group-4880-vCd
+  .shanta-akter-s7s {
   font-size: 1.8rem;
   font-weight: 600;
   line-height: 1.5;
   color: #4a4a4a;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-4883-ujT .group-4881-W8u .group-4880-vCd .graphic-designer-nkd {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-4883-ujT
+  .group-4881-W8u
+  .group-4880-vCd
+  .graphic-designer-nkd {
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.5;
   color: #777777;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -1487,7 +1988,11 @@ body {
   display: flex;
   align-items: center;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-10090-Gfo .group-4885-n8M {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-10090-Gfo
+  .group-4885-n8M {
   margin-right: 127.3rem;
   width: 4.7rem;
   height: 4.7rem;
@@ -1495,7 +2000,11 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-ih2m-DVw .group-10090-Gfo .group-4884-HL1 {
+.all-LhT
+  .course-website-xD3
+  .auto-group-ih2m-DVw
+  .group-10090-Gfo
+  .group-4884-HL1 {
   width: 4.7rem;
   height: 4.7rem;
   object-fit: contain;
@@ -1519,17 +2028,25 @@ body {
   display: flex;
   flex-direction: column;
 }
-.all-LhT .course-website-xD3 .auto-group-hcqs-QQd .group-10113-u6V .pro-edu-EeZ {
+.all-LhT
+  .course-website-xD3
+  .auto-group-hcqs-QQd
+  .group-10113-u6V
+  .pro-edu-EeZ {
   margin: 0rem 0.116rem 0.7rem 0rem;
   font-size: 4rem;
   font-weight: 600;
   line-height: 1.5;
   color: #ffffff;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-hcqs-QQd .group-10113-u6V .office-41-zawaya-buildin-ghala-muscat-sultanate-of-oman-7CZ {
+.all-LhT
+  .course-website-xD3
+  .auto-group-hcqs-QQd
+  .group-10113-u6V
+  .office-41-zawaya-buildin-ghala-muscat-sultanate-of-oman-7CZ {
   margin-bottom: 1rem;
   max-width: 32.1rem;
   text-align: center;
@@ -1537,27 +2054,40 @@ body {
   font-weight: 400;
   line-height: 1.75;
   color: #e8e8e8;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-hcqs-QQd .group-10113-u6V .privacy-ploicy-terms-of-use-NeH {
+.all-LhT
+  .course-website-xD3
+  .auto-group-hcqs-QQd
+  .group-10113-u6V
+  .privacy-ploicy-terms-of-use-NeH {
   margin: 0rem 0rem 2rem 0.056rem;
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.2599999746;
   color: #e8e8e8;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-hcqs-QQd .group-10113-u6V .group-10061-e61 {
+.all-LhT
+  .course-website-xD3
+  .auto-group-hcqs-QQd
+  .group-10113-u6V
+  .group-10061-e61 {
   margin: 0rem 5.758rem 0rem 5.742rem;
   width: calc(100% - 11.5rem);
   display: flex;
   align-items: center;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-hcqs-QQd .group-10113-u6V .group-10061-e61 .group-10060-XQh {
+.all-LhT
+  .course-website-xD3
+  .auto-group-hcqs-QQd
+  .group-10113-u6V
+  .group-10061-e61
+  .group-10060-XQh {
   margin-right: 1.5rem;
   width: 4rem;
   height: 4rem;
@@ -1565,7 +2095,12 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-hcqs-QQd .group-10113-u6V .group-10061-e61 .group-10059-qgH {
+.all-LhT
+  .course-website-xD3
+  .auto-group-hcqs-QQd
+  .group-10113-u6V
+  .group-10061-e61
+  .group-10059-qgH {
   margin-right: 1.6rem;
   width: 4rem;
   height: 4rem;
@@ -1573,7 +2108,12 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-hcqs-QQd .group-10113-u6V .group-10061-e61 .group-10058-m49 {
+.all-LhT
+  .course-website-xD3
+  .auto-group-hcqs-QQd
+  .group-10113-u6V
+  .group-10061-e61
+  .group-10058-m49 {
   margin-right: 1.5rem;
   width: 4rem;
   height: 4rem;
@@ -1581,7 +2121,12 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .auto-group-hcqs-QQd .group-10113-u6V .group-10061-e61 .group-10057-4ow {
+.all-LhT
+  .course-website-xD3
+  .auto-group-hcqs-QQd
+  .group-10113-u6V
+  .group-10061-e61
+  .group-10057-4ow {
   width: 4rem;
   height: 4rem;
   object-fit: contain;
@@ -1599,7 +2144,7 @@ body {
   font-weight: 600;
   line-height: 1.3333333333;
   color: #1c1c1c;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
 }
 .all-LhT .course-website-xD3 .group-10112-dVf {
@@ -1677,7 +2222,11 @@ body {
   align-items: flex-end;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .group-10112-dVf .fedex-express-6-1-kPF .vector-dT3 {
+.all-LhT
+  .course-website-xD3
+  .group-10112-dVf
+  .fedex-express-6-1-kPF
+  .vector-dT3 {
   margin-right: 0.0002rem;
   width: 6.2995rem;
   height: 3.2983rem;
@@ -1685,7 +2234,11 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .group-10112-dVf .fedex-express-6-1-kPF .group-jFB {
+.all-LhT
+  .course-website-xD3
+  .group-10112-dVf
+  .fedex-express-6-1-kPF
+  .group-jFB {
   margin: 0rem 0.376rem 0.116rem 0rem;
   width: 4.5526rem;
   height: 3.1825rem;
@@ -1693,7 +2246,11 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.all-LhT .course-website-xD3 .group-10112-dVf .fedex-express-6-1-kPF .vector-RNu {
+.all-LhT
+  .course-website-xD3
+  .group-10112-dVf
+  .fedex-express-6-1-kPF
+  .vector-RNu {
   margin-bottom: 0.0498rem;
   width: 0.7715rem;
   height: 0.7571rem;
